@@ -1,4 +1,4 @@
-SchedulAI es un asistente impulsado por inteligencia artificial que te ayuda a programar reuniones y tareas en Google Calendar de manera fácil, como lo haría un asistente humano.\
+SchedulAI es un asistente impulsado por inteligencia artificial que te ayuda a programar reuniones y tareas en Google Calendar de manera fácil, como lo haría un asistente humano.
 
 Cómo funciona\
     1. Escribe tu solicitud en lenguaje natural (por ejemplo: "Agenda una reunión con Juan mañana a las 15:00").\
