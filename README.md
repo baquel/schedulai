@@ -10,3 +10,5 @@ Cómo funciona\
 Aplicación de Streamlit: [link](https://schedulai.streamlit.app/)
 
 Documentación del proyecto: [link](https://docs.google.com/presentation/d/1x-OL9cyCKnl0ES18GvYugWJaCDU6MBFYeoZQ9HgzXzw/edit?usp=sharing)
+
+Video mostrando el funcionamiento de la aplicación: [link](https://drive.google.com/file/d/1Av-wOOVrxCGPWBSX4NleN0bsHrQnmwaj/view?usp=sharing)
